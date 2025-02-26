@@ -70,6 +70,30 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Waterfall vs. Agile Methodologies
+
+Waterfall and Agile are two of the most common project management methodologies, each offering distinct approaches to planning, execution, and delivery.
+
+|Feature    |Waterfall  |Agile
+
+
+
+📊 When to Use Waterfall:
+Well-Defined Requirements – When project scope and goals are clear and unlikely to change.
+Example: Building a bridge or manufacturing a physical product.
+Regulatory Compliance – Industries requiring extensive documentation and formal approvals.
+Example: Medical device development or government contracts.
+Fixed Budget and Timeline – Projects with tight schedules and no room for scope changes.
+Example: Legal compliance systems or large-scale ERP implementations.
+
+🚀 When to Use Agile:
+Evolving Requirements – Projects where customer needs or market conditions may change.
+Example: Developing a mobile app or SaaS platform.
+User-Centric Products – Continuous delivery of features based on customer feedback.
+Example: E-commerce websites or social media platforms.
+Innovation-Driven Projects – Encourages experimentation and iterative improvements.
+Example: AI software development or game design.
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 

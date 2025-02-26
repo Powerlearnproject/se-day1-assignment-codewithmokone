@@ -195,55 +195,75 @@ A Version Control System (VCS) tracks and manages changes to code over time, all
 2. Keeping Up with Rapidly Changing Technologies
 - Challenge: The tech industry evolves quickly, with new frameworks, languages, and methodologies emerging constantly.
 
-Strategies to Overcome:
-Dedicate time for continuous learning through courses (e.g., Udemy, Coursera) and technical blogs.
-Participate in conferences, webinars, and meetups to stay updated.
-Practice new technologies in side projects or open-source contributions.
-Follow industry leaders and communities (e.g., Hacker News, r/programming).
+- Strategies to Overcome:
+  - Dedicate time for continuous learning through courses (e.g., Udemy, Coursera) and technical blogs.
+  - Participate in conferences, webinars, and meetups to stay updated.
+  - Practice new technologies in side projects or open-source contributions.
+  - Follow industry leaders and communities (e.g., Hacker News, r/programming).
+
 3. Debugging and Fixing Bugs
-Challenge: Identifying and resolving complex bugs can be time-consuming and frustrating.
-Strategies to Overcome:
-Use systematic debugging techniques (e.g., binary search debugging).
-Leverage debugging tools and logging frameworks (e.g., GDB, Postman, Log4j).
-Write comprehensive unit and integration tests to catch issues early.
-Collaborate with team members through code reviews and pair programming.
+- Challenge: Identifying and resolving complex bugs can be time-consuming and frustrating.
+
+- Strategies to Overcome:
+  - Use systematic debugging techniques (e.g., binary search debugging).
+  - Leverage debugging tools and logging frameworks (e.g., GDB, Postman, Log4j).
+  - Write comprehensive unit and integration tests to catch issues early.
+  - Collaborate with team members through code reviews and pair programming.
+
 4. Time Management and Meeting Deadlines
-Challenge: Balancing multiple tasks while meeting tight deadlines can be stressful.
-Strategies to Overcome:
-Use project management techniques (e.g., Agile, Kanban, Scrum) to prioritize work.
-Break tasks into smaller, manageable chunks and track progress using tools (e.g., Jira, Trello).
-Communicate early and frequently about roadblocks or changing requirements.
-Follow the 80/20 rule (focus on tasks with the biggest impact).
+- Challenge: Balancing multiple tasks while meeting tight deadlines can be stressful.
+
+- Strategies to Overcome:
+  - Use project management techniques (e.g., Agile, Kanban, Scrum) to prioritize work.
+  - Break tasks into smaller, manageable chunks and track progress using tools (e.g., Jira, Trello).
+  - Communicate early and frequently about roadblocks or changing requirements.
+  - Follow the 80/20 rule (focus on tasks with the biggest impact).
+
 5. Handling Technical Debt
-Challenge: Quick fixes and rushed development can lead to messy code that accumulates over time.
-Strategies to Overcome:
-Allocate time during sprints for code refactoring and cleanup.
-Document known technical debt and prioritize critical areas for improvement.
-Implement automated tests to detect regressions when updating legacy code.
-Advocate for a culture of quality and long-term code maintainability.
+- Challenge: Quick fixes and rushed development can lead to messy code that accumulates over time.
+
+- Strategies to Overcome:
+  - Allocate time during sprints for code refactoring and cleanup.
+  - Document known technical debt and prioritize critical areas for improvement.
+  - Implement automated tests to detect regressions when updating legacy code.
+  - Advocate for a culture of quality and long-term code maintainability.
+
 6. Effective Communication with Non-Technical Stakeholders
-Challenge: Explaining technical concepts to non-technical teams (e.g., product managers, clients) can lead to misunderstandings.
-Strategies to Overcome:
-Use simple language and analogies to explain technical ideas.
-Provide visual aids like flowcharts and diagrams for better clarity.
-Align technical solutions with business goals to foster mutual understanding.
-Practice active listening and ask clarifying questions to confirm understanding.
+- Challenge: Explaining technical concepts to non-technical teams (e.g., product managers, clients) can lead to misunderstandings.
+
+- Strategies to Overcome:
+  - Use simple language and analogies to explain technical ideas.
+  - Provide visual aids like flowcharts and diagrams for better clarity.
+  - Align technical solutions with business goals to foster mutual understanding.
+  - Practice active listening and ask clarifying questions to confirm understanding.
+
 7. Working in Distributed Teams
-Challenge: Remote and distributed teams can face communication gaps and collaboration issues.
-Strategies to Overcome:
-Use collaborative tools (e.g., Slack, Zoom, Confluence) to stay connected.
-Maintain clear and documented processes for code reviews and deployments.
-Schedule regular check-ins and asynchronous updates for alignment.
-Foster a culture of transparency and shared responsibility.
+- Challenge: Remote and distributed teams can face communication gaps and collaboration issues.
+
+- Strategies to Overcome:
+  - Use collaborative tools (e.g., Slack, Zoom, Confluence) to stay connected.
+  - Maintain clear and documented processes for code reviews and deployments.
+  - Schedule regular check-ins and asynchronous updates for alignment.
+  - Foster a culture of transparency and shared responsibility.
+
 8. Balancing Innovation with Stability
-Challenge: Introducing new technologies while maintaining a stable production environment is a delicate balance.
-Strategies to Overcome:
-Use feature flags to gradually roll out new features.
-Implement CI/CD pipelines for automated testing and deployment.
-Monitor application performance with tools like Prometheus or Datadog.
-Evaluate new technologies in a sandbox environment before adoption.
+- Challenge: Introducing new technologies while maintaining a stable production environment is a delicate balance.
+
+- Strategies to Overcome:
+  - Use feature flags to gradually roll out new features.
+  - Implement CI/CD pipelines for automated testing and deployment.
+  - Monitor application performance with tools like Prometheus or Datadog.
+  - Evaluate new technologies in a sandbox environment before adoption.
 
 ### Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+#### Unit Testing
+- involves testing individual components or functions of a software application in isolation and it's purpose is to verify that each unit of code works as intended and produces the expected output for given inputs.
+
+- Importance:
+1. Catches bugs early in the development cycle.
+2. Facilitates easier debugging and faster code maintenance.
+3. Ensures code correctness at a granular level.
+4. Helps with refactoring by providing a safety net for changes.
 
 
 #Part 2: Introduction to AI and Prompt Engineering

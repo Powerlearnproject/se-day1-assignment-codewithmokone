@@ -132,10 +132,15 @@ f. Continuous Improvement: Stay updated with new technologies and methodologies 
 - Responsibilities:
 
 a. Test Planning: Design and document comprehensive test plans, test cases, and test scripts.
+
 b. Manual & Automated Testing: Execute manual and automated tests (e.g., functional, regression, performance) to identify defects.
+
 c. Bug Reporting: Document and report bugs clearly, collaborating with developers to resolve issues.
+
 d. Quality Standards: Ensure the product meets defined quality standards and aligns with user requirements.
+
 e. Process Improvement: Identify areas for improvement in the software development lifecycle (SDLC) and advocate for best practices.
+
 f. Release Validation: Perform final checks before software releases to ensure a smooth deployment.
 
 3. Project Manager
@@ -145,10 +150,15 @@ f. Release Validation: Perform final checks before software releases to ensure a
 - Responsibilities:
 
 a. Project Planning: Define project scope, objectives, timelines, and resource allocation.
+
 b. Team Coordination: Facilitate communication between developers, QA engineers, stakeholders, and other teams.
+
 c. Risk Management: Identify potential risks and create mitigation plans to minimize impact on project delivery.
+
 d. Agile/Scrum Management: Manage agile ceremonies (e.g., sprint planning, daily stand-ups, retrospectives) and track progress using project management tools.
+
 e. Stakeholder Communication: Provide regular project updates, manage expectations, and gather feedback from stakeholders.
+
 f. Delivery & Reporting: Ensure timely project delivery while maintaining quality, and document lessons learned for future improvements.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.

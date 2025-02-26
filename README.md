@@ -5,9 +5,18 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+- Software Engineering is the process of designing, building, testing, and maintaining software applications.
+-
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+1. Structured Programming
+- This paradigm introduced concepts like modularity, top-down design, and control flow structures, providing a more organized way to develop software.
+
+2. Object-Oriented Programming (OOP)
+- The shift to OOP with concepts like classes, objects, inheritance, and polymorphism allowed for better code reusability and maintainability. 
+
+3. Internet and Web Technologies
+- The rise of the internet significantly impacted software development, leading to the creation of web applications and the need for web-specific programming languages like HTML, CSS, and JavaScript.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.

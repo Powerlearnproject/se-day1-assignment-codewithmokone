@@ -74,7 +74,8 @@ Waterfall vs. Agile Methodologies
 
 Waterfall and Agile are two of the most common project management methodologies, each offering distinct approaches to planning, execution, and delivery.
 
-|Feature    |Waterfall  |Agile
+| Feature    | Waterfall  | Agile   |
+| :--------- | :--------- | :------ |
 
 
 

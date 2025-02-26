@@ -70,36 +70,85 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-Waterfall vs. Agile Methodologies
-
 Waterfall and Agile are two of the most common project management methodologies, each offering distinct approaches to planning, execution, and delivery.
 
-| Feature       | Waterfall     | Agile     |
-| :------------ | :------------ | :-------- |
-| Approach      |
-| :------------ | :------------ | :-------- |
+Waterfall feature:
+1. Approach - Sequential, linear process
+2. Phases - Defined stages (e.g., Requirements → Design → Implementation → Testing → Deployment → Maintenance)
+3. Flexibility - Low – Changes are difficult once the project starts
+4. Delivery - Delivered at the end of the project
+5. Documentation - Extensive and detailed documentation
+6. Customer Involvement - Minimal after the initial phase
+7. Timeline - Fixed and predetermined
+8. Risk Management - High risk if requirements change
+9. Team Structure - Specialized, roles are clearly defined
+
+Agile feature:
+1. Approach - Iterative, incremental development
+2. Phases - Iterations (Sprints) with continuous cycles of planning, development, and review
+3. Flexibility - High – Adaptable to changing requirements
+4. Delivery - Delivered incrementally throughout the project
+5. Documentation - Light documentation, more focus on working software
+6. Customer Involvement - High, with frequent feedback loops
+7. Timeline - Evolving, based on iterative cycles
+8. Risk Management - Evolving, based on iterative cycles
+9. Team Structure - Cross-functional, collaborative teams
 
 
+When to Use Waterfall:
+1. Well-Defined Requirements – When project scope and goals are clear and unlikely to change.
+2. Example: Building a bridge or manufacturing a physical product.
+3. Regulatory Compliance – Industries requiring extensive documentation and formal approvals.
+4. Example: Medical device development or government contracts.
+5. Fixed Budget and Timeline – Projects with tight schedules and no room for scope changes.
+6. Example: Legal compliance systems or large-scale ERP implementations.
 
-📊 When to Use Waterfall:
-Well-Defined Requirements – When project scope and goals are clear and unlikely to change.
-Example: Building a bridge or manufacturing a physical product.
-Regulatory Compliance – Industries requiring extensive documentation and formal approvals.
-Example: Medical device development or government contracts.
-Fixed Budget and Timeline – Projects with tight schedules and no room for scope changes.
-Example: Legal compliance systems or large-scale ERP implementations.
-
-🚀 When to Use Agile:
-Evolving Requirements – Projects where customer needs or market conditions may change.
-Example: Developing a mobile app or SaaS platform.
-User-Centric Products – Continuous delivery of features based on customer feedback.
-Example: E-commerce websites or social media platforms.
-Innovation-Driven Projects – Encourages experimentation and iterative improvements.
-Example: AI software development or game design.
+When to Use Agile:
+1. Evolving Requirements – Projects where customer needs or market conditions may change. Example: Developing a mobile app or SaaS platform.
+2. User-Centric Products – Continuous delivery of features based on customer feedback. Example: E-commerce websites or social media platforms.
+3. Innovation-Driven Projects – Encourages experimentation and iterative improvements.
+4. Example: AI software development or game design.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Software Developer
+
+Role: A Software Developer designs, writes, tests, and maintains software applications. They are responsible for turning business requirements into functional code.
+
+Responsibilities:
+
+Design & Development: Write clean, efficient, and maintainable code based on technical and business requirements.
+Code Reviews: Participate in peer code reviews to ensure code quality and adherence to best practices.
+Testing & Debugging: Identify, debug, and fix software defects to ensure reliable functionality.
+Collaboration: Work closely with QA engineers, project managers, and other developers to deliver features and improvements.
+Documentation: Create and maintain technical documentation for codebases, APIs, and system architecture.
+Continuous Improvement: Stay updated with new technologies and methodologies to improve processes and software quality.
+
+Quality Assurance (QA) Engineer
+
+Role: A QA Engineer ensures the quality, reliability, and performance of software products through rigorous testing and validation processes.
+
+Responsibilities:
+
+Test Planning: Design and document comprehensive test plans, test cases, and test scripts.
+Manual & Automated Testing: Execute manual and automated tests (e.g., functional, regression, performance) to identify defects.
+Bug Reporting: Document and report bugs clearly, collaborating with developers to resolve issues.
+Quality Standards: Ensure the product meets defined quality standards and aligns with user requirements.
+Process Improvement: Identify areas for improvement in the software development lifecycle (SDLC) and advocate for best practices.
+Release Validation: Perform final checks before software releases to ensure a smooth deployment.
+
+Project Manager
+Role: A Project Manager (PM) oversees planning, execution, and delivery of software projects, ensuring they meet scope, timeline, and budget goals.
+
+Responsibilities:
+
+Project Planning: Define project scope, objectives, timelines, and resource allocation.
+Team Coordination: Facilitate communication between developers, QA engineers, stakeholders, and other teams.
+Risk Management: Identify potential risks and create mitigation plans to minimize impact on project delivery.
+Agile/Scrum Management: Manage agile ceremonies (e.g., sprint planning, daily stand-ups, retrospectives) and track progress using project management tools.
+Stakeholder Communication: Provide regular project updates, manage expectations, and gather feedback from stakeholders.
+Delivery & Reporting: Ensure timely project delivery while maintaining quality, and document lessons learned for future improvements.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
